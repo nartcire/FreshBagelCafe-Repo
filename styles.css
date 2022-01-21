@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+  color: black;
+  margin: 0px;
+  padding: 0px;
+  /* border-style: solid; */
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #C3A384;
+  height: 60px;
+}
+
+#logo {
+  font-weight: bold;
+  font-family: "Times New Roman";
+  font-size: 125%;
+  padding-left: 10px;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 110%;
+  padding: 10px;
+}
