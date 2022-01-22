@@ -3,6 +3,7 @@
   color: black;
   margin: 0px;
   padding: 0px;
+  background: #C3A384;
   /* border-style: solid; */
 }
 
@@ -21,7 +22,7 @@ header {
   padding-left: 10px;
 }
 
-ul {
+#nav {
   display: flex;
   list-style-type: none;
 }
@@ -29,6 +30,38 @@ ul {
 a {
   text-decoration: none;
   font-weight: bold;
-  font-size: 110%;
+  font-size: 125%;
   padding: 10px;
+}
+
+#mainPhoto {
+  width: 100vw;
+}
+
+h1 {
+  text-align: center;
+  padding: 0px 10px;
+  font-size: 150%;
+  background: #877B66;
+}
+
+h2 {
+  padding: 0px 10px;
+  font-size: 150%;
+  background: #877B66;
+  display: inline-block;
+}
+
+span {
+  margin: 10px 30px;
+}
+
+main li {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ingrediants {
+  font-size: 75%;
+  margin-top:
 }
