@@ -11,7 +11,6 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #C3A384;
   height: 60px;
 }
 
@@ -53,7 +52,7 @@ h2 {
 }
 
 span {
-  margin: 7px 30px;
+  margin: 7px 20px;
 }
 
 .menu li {
@@ -67,7 +66,7 @@ span {
 }
 
 .list span {
-  margin: 10px 30px 0px 30px;;
+  margin: 10px 20px 0px 20px;
 }
 
 #disclaimer {
@@ -80,4 +79,12 @@ span {
 #iceblended {
   display: flex;
   justify-content: space-around;
+}
+
+.sizes {
+  width: 152px;
+}
+
+.sizes-juice {
+  width: 150px;
 }
