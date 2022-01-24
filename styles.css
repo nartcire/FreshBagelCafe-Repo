@@ -88,3 +88,17 @@ span {
 .sizes-juice {
   width: 150px;
 }
+
+#indexed {
+  width: auto;
+  height: 150px;
+  padding: 5px 0 0 60px;
+  /* border: 3px solid red; */
+}
+
+#indexed li {
+  width: 120px;
+  margin: 10px 10px 5px 10px;
+  float: left;
+  /* border: 1px solid black; */
+}
